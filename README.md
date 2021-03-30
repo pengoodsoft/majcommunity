@@ -1,4 +1,4 @@
-## 码问社区
+## JAVA学习之社区
 
 ## 在线演示地址
 [www.mawen.co](http://www.mawen.co)
@@ -103,9 +103,3 @@ mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
 - 2019-8-22 修复图片大小限制和提问内容为空问题
 - 2019-9-1 添加动态导航栏
 
-## 联系我
-有任何问题可以扫码下面两个二维码找到我，左边是微信订阅号，关注回复 ‘面试’即可获得我整理的(2W字)阿里面经，右边是个人微信号，有任何技术上面的问题可以给我留言。
-|  微信公众号   |  个人微信   |
-| --- | --- |
-|  码匠笔记  |  xj17500 |
-|  ![](https://mawen-cdn.cn-bj.ufileos.com/wxdyh-qr.jpeg)   |   ![](https://mawen-cdn.cn-bj.ufileos.com/wx-qr.jpeg)  |
